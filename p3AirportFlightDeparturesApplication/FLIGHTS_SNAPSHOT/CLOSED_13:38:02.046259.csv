@@ -1,0 +1,33 @@
+Flight number, Destination, Departure Time
+ABC130,London Heathrow,08:00
+ABC135,Dublin,08:10
+ABC124,Los Angeles,08:30
+ABC131,Los Angeles,08:30
+ABC125,Mexico City International,09:00
+ABC132,Mexico City International,09:10
+ABC126,Sao Paulo Guarulhos,09:15
+DEF462,Paris Charles de Gaulle,09:20
+ABC133,Sao Paulo Guarulhos,09:30
+DEF467,Paris Charles de Gaulle,09:40
+DEF457,Paris Orly,10:00
+ABC127,Toronto Pearson,10:10
+DEF463,Paris Orly,10:20
+ABC134,Toronto Pearson,10:30
+ABC128,Los Angeles,10:40
+GHI795,Amsterdam Airport Schiphol,10:45
+GHI800,Amsterdam Airport Schiphol,10:50
+GHI790,Rome Fiumicino,11:00
+GHI796,Rome Fiumicino,11:15
+DEF458,Amsterdam Airport Schiphol,11:30
+DEF464,Amsterdam Airport Schiphol,11:40
+DEF459,Zurich Airport,12:00
+DEF465,Zurich Airport,12:05
+JKL018,New York JFK,12:15
+JKL023,New York JFK,12:25
+DEF460,Mumbai Chhatrapati Shivaji International,12:30
+DEF466,Mumbai Chhatrapati Shivaji International,12:30
+GHI791,Madrid Barajas ,12:45
+GHI797,Madrid Barajas,12:45
+DEF461,New York JFK,13:00
+GHI792,Beijing Capital,13:15
+GHI798,Beijing Capital,13:15
